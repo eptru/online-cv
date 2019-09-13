@@ -71,14 +71,11 @@ experiences:
         Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
 
 projects:
-    title: Projects
+    title: Projects &amp; CourseWork
     assignments:
       - title: ArduinoTemp
-        tagline: "record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second."
+        tagline: "\nrecord, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second."
 
-projects:
-    title: Coursework
-    assignments: 
        - title: PROGRAMMING LANGUAGES FOR WEB APPLICATIONS CS4640
          link: "#"
          tagline: "Developed a fully functional blog website with Angular frontend and PHP backend. The database was set on Google Cloud services and was communicating with front end users through PHP codes. Angular was used to generate front end pages as well as took care of user actions. The blog contained all major functions like create user account, login account, add, update, and delete posts. Basic cybersecurity knowledge is applied to defend against hacking practice."
