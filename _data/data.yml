@@ -10,11 +10,11 @@ sidebar:
 
     # Profile information
     name: Jae Woo Kim
-    tagline: Third Year in CS/Physics
+    tagline: Fourth Year in CS/Physics
     avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: eptru@hotmail.com
+    email: jk6nd@virginia.edu
     phone: (703)416-9142
     website: eptru.com #do not add http://
     linkedin: jae-woo-kim
@@ -51,42 +51,34 @@ sidebar:
 
 
 education:
-    - degree: BS in Physics & BA in Computer Science
+    - degree: BA Computer Science & Bs Physics
       university: University of Virginia
-      time: 2018 - 2020
-      details: |
-
-          - Undergraduate student at George Mason University (2016 - 2018)
-          - Currently Taking CS 2150 (Program and Data Representation)
+      time: Sep 2018 - May 2020
+      details: | 
+        Cumulative GPA: 3.8
 
 experiences:
+    - role: Lab Assistant
+      time: OCT 2018 - NOW
+      company: Ultracold Matter Group
+      details: |
+        Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
+    
     - role: Coding Instructor
-      time: 2017 - 2018
-      company: Silver Knights, Fairfax, Virginia
+      time: Oct 2017 - Aug 2018
+      company: Silver Knight Enrichment, Fairfax, Virginia
       details: |
-        Coaching students from grade 2 -7 learn using Scratch 2.0 as after school activity.
-        
-        Holding 5-day summer camp for kids each week. Planning, leading, and implementing core and non-core programs and experiences for children in a small group setting.
+        Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
 
+ projects:
+     title: ArduinoTemp
+     intro: >
+        record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second.
 
-    - role: Undergraduate Teaching Assistant
-      time: 2017 - 2018
-      company: George Mason Unviersity, Fairfax, Virginia
-      details: |
-        Reinforce lessons presented by professor by reviewing material and answering questions with students one-on-one or in small groups At CS 112 (Introduction to Programming using Python)
-
-
-# projects:
-    # title: Projects
-    # intro: >
-      # You can list your side projects or open source libraries in this
-      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    # assignments:
-      # - title: Velocity
-        # link: "#hook"
-        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+     assignments:
+       - title: Velocity
+         link: "#hook"
+         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       # - title: DevStudio
         # link: "#"
