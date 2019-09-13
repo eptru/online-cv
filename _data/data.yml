@@ -32,7 +32,7 @@ sidebar:
       - idiom: English
         level: Professional
         
-    summary: test
+    #summary: test
      
    # interests:
    #   - item: Climbing
@@ -54,7 +54,7 @@ education:
     - degree: BA Computer Science & Bs Physics
       university: University of Virginia
       time: Sep 2018 - May 2020
-      details: | 
+      details: |
         Cumulative GPA: 3.8
 
 experiences:
@@ -63,22 +63,22 @@ experiences:
       company: Ultracold Matter Group
       details: |
         Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
-    
+
     - role: Coding Instructor
       time: Oct 2017 - Aug 2018
       company: Silver Knight Enrichment, Fairfax, Virginia
       details: |
         Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
 
- projects:
-     title: ArduinoTemp
-     intro: >
-        record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second.
+projects:
+    title: ArduinoTemp
+    intro: >
+      record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second.
 
-     assignments:
-       - title: Velocity
-         link: "#hook"
-         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+     #assignments:
+       #- title: Velocity
+       #  link: "#hook"
+       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       # - title: DevStudio
         # link: "#"
