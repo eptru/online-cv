@@ -76,19 +76,19 @@ projects:
       - title: ArduinoTemp
         tagline: "\nrecord, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second."
 
-       - title: PROGRAMMING LANGUAGES FOR WEB APPLICATIONS CS4640
-         link: "#"
-         tagline: "Developed a fully functional blog website with Angular frontend and PHP backend. The database was set on Google Cloud services and was communicating with front end users through PHP codes. Angular was used to generate front end pages as well as took care of user actions. The blog contained all major functions like create user account, login account, add, update, and delete posts. Basic cybersecurity knowledge is applied to defend against hacking practice."
+      - title: PROGRAMMING LANGUAGES FOR WEB APPLICATIONS CS4640
+        link: "#"
+        tagline: "Developed a fully functional blog website with Angular frontend and PHP backend. The database was set on Google Cloud services and was communicating with front end users through PHP codes. Angular was used to generate front end pages as well as took care of user actions. The blog contained all major functions like create user account, login account, add, update, and delete posts. Basic cybersecurity knowledge is applied to defend against hacking practice."
 
-       - title: ALGORITHM CS4102
+      - title: ALGORITHM CS4102
 
-       - title: MACHINE LEARNING CS4774
+      - title: MACHINE LEARNING CS4774
        
-       - title: INTRO TO CYBERSECURITY CS3710
+      - title: INTRO TO CYBERSECURITY CS3710
 
-       - title: COMPUTATIONAL PHYSICS PHYS5630
+      - title: COMPUTATIONAL PHYSICS PHYS5630
        
-       - title: COMPUTER ARCHITECTURE CS3330
+      - title: COMPUTER ARCHITECTURE CS3330
 
 
       # - title: Delta
