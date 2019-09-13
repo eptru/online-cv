@@ -66,81 +66,12 @@ experiences:
 
     - role: Coding Instructor
       time: Oct 2017 - Aug 2018
-      company: Silver Knight Enrichment, Fairfax, Virgini#
-# Be aware that even a small syntax error here can lead to failures in output. 
-#
-
-sidebar:
-    about: False 
-    # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False 
-    # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Jae Woo Kim
-    tagline: Fourth Year in CS/Physics
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: jk6nd@virginia.edu
-    phone: (703)416-9142
-    website: eptru.com #do not add http://
-    linkedin: jae-woo-kim
-    github: eptru
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-
-    languages:
-      - idiom: Chinese
-        level: Native
-
-      - idiom: English
-        level: Professional
-        
-    #summary: test
-     
-   # interests:
-   #   - item: Climbing
-   #     link:
-
-
-# career-profile:
-    # title: Career Profile
-    # summary: |
-      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. You can 
-      # [download this free resume/CV template here]().
-      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      # Donec quam felis, ultricies nec, pellentesque eu.
-
-
-education:
-    - degree: BA Computer Science & BS Physics
-      university: University of Virginia
-      time: Sep 2018 - May 2020
-      details: |
-        Cumulative GPA: 3.8
-
-experiences:
-    - role: Lab Assistant
-      time: OCT 2018 - NOW
-      company: Ultracold Matter Group
-      details: |
-        Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
-
-    - role: Coding Instructor
-      time: Oct 2017 - Aug 2018
       company: Silver Knight Enrichment, Fairfax, Virginia
       details: |
         Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
 
 projects:
     title: Projects
-    intro: >
     assignments:
       - title: ArduinoTemp
         tagline: "record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second."
@@ -159,79 +90,9 @@ projects:
        - title: INTRO TO CYBERSECURITY CS3710
 
        - title: COMPUTATIONAL PHYSICS PHYS5630
+       
        - title: COMPUTER ARCHITECTURE CS3330
 
-
-      # - title: Delta
-        # link: "#"
-        # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-#    title: Publications
-    # intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
-
-    # papers:
-      # - title: The Art of Computer Programming
-        # authors: Donald E. Knuth
-        # conference: Addison-Wesley, 1968
-
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      # - title: A syntax directed compiler for Algol 60
-        # authors: Edgar T. Irons
-        # conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 70%
-
-      - name: Javascript & jQuery
-        level: 60%
-
-      - name: C++
-        level: 63%
-
-      - name: HTML5 & CSS
-        level: 60%
-
-      - name: Java
-        level: 50%
-
-#footer: >
-    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-a
-      details: |
-        Taught primary school kids programming using Scratch 2.0. Class size is between 10 to 30. Developed my curriculum with multiple Scratch sample projects in complement to company-provided materials. The class explained basic programming knowledge like conditional statement, loop, as well as a touch on Object-oriented programming.
-
-projects:
-    title: Projects
-    intro: >
-      record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second.
-
-    assignments:
-      - title: ArduinoTemp
-        link: "#hook"
-        tagline: "record, plot, and self-update temperature data captured from Arduino temperature sensors. Capable of plotting temperature data file with ~300MB size and updating every second."
-
-      # - title: DevStudio
-        # link: "#"
-        # tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      # - title: Tempo
-        # link: "#"
-        # tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      # - title: Atom
-        # link: "#"
-        # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       # - title: Delta
         # link: "#"
