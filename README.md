@@ -1,5 +1,5 @@
 # [My CV website](https://eptru.com)
-https://eptru.com
+eptru.com
 
 
 ------
