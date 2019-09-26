@@ -1,5 +1,5 @@
 # [My website](eptru.com)
-*eptru.com*
+eptru.com
 
 
 ------
